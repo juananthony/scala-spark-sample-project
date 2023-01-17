@@ -1,6 +1,6 @@
 # Scala-Spark sample project
 
-This is a boilerplate project of Spark 3.3 with Scala 2.12 and sbt. The goal of this repository is reuse the structure and configuration for further projects.
+This is a boilerplate project of Spark 3.3 with Scala 2.12 and sbt. The goal of this repository is to reuse the structure and configuration for future projects.
 
 To test the configuration, this sample project reads a CSV (mock data) using a Spark DataFrame and show some content. 
 
